@@ -1,0 +1,23 @@
+Variations in image size
+
+Since it is rarely the case the your image is just the perfect size to fit in an element perfectly, there are additional background properties you can play with to get your site looking just the way you want them. These include, background-repeat, background-position, and background-size (to name a few). You can use these properties to position your image.
+
+If this is something that you want to play with, I am going to direct you to another Shay Howe tutorial, since that way you can use the CodePen to actively change the options and see what happens. This is optional, but potentially very useful.
+
+http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
+
+the active
+header change background color, add background image, using image provided in css folder (cal-table.css)
+active class use a background color and font color.
+specify screen size desirable.
+The link to the current page should be styled differently from the other links (using class = "active')
+
+You will review each submission based on whether each objective/style is achieved or not, and at what level.  (For instance, did they put in background-color and if so, did they use hexadecimal or rgb.)
+Specifically, you will use evaluate submissions by answering the following questions: 
+Does the body have padding and or margin?
+Is the header styled?
+Are ONLY the links in navigation styled, not the other links?
+Are the links styled?
+Is the “active” class styled to clearly show which page is the current page?
+Are the two sections side-by-side? 
+Are the images styled?

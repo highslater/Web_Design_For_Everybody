@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+button {
+    background: lightblue;
+    padding: 10px;
+    font-size: 25px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+p {
+    width: 250px;
+    background: lightgreen;
+    border: 2px solid green;
+    text-align: center;
+    margin: 25px 0px 0px 75px;
+}
+
+#stuff {
+    text-align: center;
+    color: lightgreen;
+    background: green;
+}
+
+.close {
+    display: none;
+}
+
+.open {
+    display: block;
+}

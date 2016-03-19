@@ -1,0 +1,55 @@
+In this assignment you will take my HTML code and create a single html file called hw1.css.  It should style the page following the guidelines provided.  You can see an example final product at http://www.intro-webdesign.com/CSS/final/teams.jpg
+
+Video notes:
+
+    table:
+    
+        font: multiple families, size, weight, and line-height.
+        width: do not take up the entire space.
+        margin: center the table.
+        
+    table heading:
+    
+        change the background color and use gradient (browser prefix).
+        add a border.
+            round only the top two corners.
+            make bottom border thicker.
+        add at least one other property.
+        
+    table rows:
+        
+        set opacity to 0.8.
+        left-align the first column, center the other two.
+        set :hover to opacity of 1. (font:hover)
+        
+    td:
+        
+        change padding, font-color, background color, border radius to 2px.
+        use text-shadow.
+    
+    specify preffered screen size.
+    
+        
+    
+
+Steps:
+
+1) The table should be styled using at least four properties 
+
+2) The table headings should have a border, background color, and at least one other image 
+
+3) Style the table so that the text in the first column is left-aligned and the text in the other two columns is centered 
+
+4) Set the opacity of the table rows to a value between .6 and .8 (make sure it is still visible) 
+
+5) Change the opacity of a row when it is hovered over 
+
+6) The table elements <td> should be styled using at least four properties
+
+
+Specifically, you will evaluate submissions by answering the following questions: 
+Is the table element styled?
+Are the table headings properly styled?
+Are ONLY the corners of the table styled?
+Does the opacity of a table row change when it is hovered over?
+Are the table elements styled?

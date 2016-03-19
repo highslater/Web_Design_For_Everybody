@@ -1,0 +1,38 @@
+/*body header nav ul*/ li {
+    display: inline-block;
+    margin: .25em;
+}
+
+table {
+    margin: auto;
+}
+
+table,
+td,
+th {
+    border: 1px solid lightblue;
+}
+
+hr {  
+}
+
+.short {
+    height: 3px;
+    width: 50%;
+    border-color: lightskyblue;
+    background-color: lightskyblue;      
+}
+
+.med {
+    height: 2px;
+    width: 75%;
+    border-color: lightskyblue;
+    background-color: lightskyblue;
+}
+
+.long {
+    height: 1px;
+    width: 100%;
+    border-color: lightskyblue;
+    background-color: lightskyblue;
+}

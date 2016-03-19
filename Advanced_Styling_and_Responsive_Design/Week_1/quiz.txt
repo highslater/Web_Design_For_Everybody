@@ -1,0 +1,275 @@
+Close
+Basic Concepts in Responsive Design approaches
+
+17 questions
+
+1. 
+Which of the following is NOT a fluid measurement
+
+*px
+
+%
+
+rem
+
+em
+
+2. 
+Responsive Web Design is...
+
+*Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+
+Designing pages for the mobile view.
+
+3. 
+Adaptive design with dynamic serving is....
+
+Designing pages for the mobile view.
+
+Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+
+4. 
+Which of the following is a true statement about using a separate "m." site for your content?
+
+It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
+
+Some search engines require a .m version of your site.
+
+Users have control over which version of the page they can see, regardless of the device they are using.
+
+5. 
+The mobile version of your web page should have the same capabilities of every other version of your site.
+
+True
+
+False
+
+6. 
+The mobile version of your web page should have the same layout of every other version of your site.
+
+True
+
+False
+7. 
+Which fluid measurement type returns a percentage of the viewport width?
+
+Enter answer here
+8. 
+Which fluid measurement type returns a percentage of the viewport height?
+
+Enter answer here
+
+9. 
+The fluid measurement % can only be used on non-textual elements
+
+True
+
+False
+
+10. 
+Responsive sites can have a mixture of fluid and absolute measurements.
+
+True
+
+False
+
+11. 
+Which of the following statements best describes what pixels, ems, and rems have in common?
+
+They are all fluid units of measurement that define the screen resolution of a page.
+
+They are all units of measurement used to define the length of elements on a webpage.
+
+They are all fluid units of measurement used to define the length of elements on a webpage.
+
+12. 
+Which of the following measurements is relative to the size of its parent element?
+
+px
+
+em
+
+rem
+13. 
+If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.)
+
+Enter answer here
+14. 
+An _______ is the size of type as computed relative to the type size of the parent element.
+
+Enter answer here
+15. 
+A _______ is the size of type as computed relative to the type size of the top level “html” element rather than a parent element.
+
+Enter answer here
+16. 
+Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?
+
+Enter answer here
+17. 
+1 _____ = 1% of viewport width
+
+Enter answer here
+16 questions unanswered
+Submit Quiz
+
+
+Close
+Basic Concepts in Responsive Design approaches
+
+Failed
+13/17 questions correct
+You haven't passed yet. You need at least 14 questions correct to pass.
+Review the material and try again!  You have 3 attempts every 8 hours.
+Review Related Lesson
+Correct
+1. 
+Which of the following is NOT a fluid measurement
+
+px
+Correct Response 
+
+%
+
+rem
+
+em
+Correct
+2. 
+Responsive Web Design is...
+
+Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+Correct Response 
+
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+
+Designing pages for the mobile view.
+Correct
+3. 
+Adaptive design with dynamic serving is....
+
+Designing pages for the mobile view.
+
+Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+Correct Response 
+Correct
+4. 
+Which of the following is a true statement about using a separate "m." site for your content?
+
+It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
+Correct Response 
+
+Some search engines require a .m version of your site.
+
+Users have control over which version of the page they can see, regardless of the device they are using.
+Correct
+5. 
+The mobile version of your web page should have the same capabilities of every other version of your site.
+
+True
+Correct Response 
+
+False
+Correct
+6. 
+The mobile version of your web page should have the same layout of every other version of your site.
+
+True
+
+False
+Correct Response 
+Incorrect
+7. 
+Which fluid measurement type returns a percentage of the viewport width?
+
+%
+Incorrect Response 
+If you used % you are on the right track, but percent is based on the parent element, not the viewport.
+Show acceptable response
+Incorrect
+8. 
+Which fluid measurement type returns a percentage of the viewport height?
+
+rem
+Incorrect Response 
+If you used % you are on the right track, but percent is based on the parent element, not the viewport.
+Show acceptable response
+Correct
+9. 
+The fluid measurement % can only be used on non-textual elements
+
+True
+
+False
+Correct Response 
+Correct
+10. 
+Responsive sites can have a mixture of fluid and absolute measurements.
+
+True
+Correct Response 
+
+False
+Correct
+11. 
+Which of the following statements best describes what pixels, ems, and rems have in common?
+
+They are all fluid units of measurement that define the screen resolution of a page.
+
+They are all units of measurement used to define the length of elements on a webpage.
+Correct Response 
+
+They are all fluid units of measurement used to define the length of elements on a webpage.
+Correct
+12. 
+Which of the following measurements is relative to the size of its parent element?
+
+px
+
+em
+Correct Response 
+The correct answer can be found in Web Design Basics article by Matthew Davis.
+
+rem
+Correct
+13. 
+If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.)
+
+64
+Correct Response 
+Correct
+14. 
+An _______ is the size of type as computed relative to the type size of the parent element.
+
+em
+Correct Response 
+Correct
+15. 
+A _______ is the size of type as computed relative to the type size of the top level “html” element rather than a parent element.
+
+rem
+Correct Response 
+Incorrect
+16. 
+Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?
+
+%
+Incorrect Response 
+Check out the article "Whats the Deal with the Em and Rem" for the answer. They specifically mention situations where the user doesn't have a great deal of control.
+Show acceptable responses
+Incorrect
+17. 
+1 _____ = 1% of viewport width
+
+rem
+Incorrect Response 
+You will want to review the lecture of Fluid Measurements
+Show acceptable response
+
+
